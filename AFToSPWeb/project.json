@@ -1,0 +1,9 @@
+﻿{
+  "frameworks": {
+    "net46": {
+      "dependencies": {
+        "Microsoft.SharePointOnline.CSOM": "16.1.7521.1200"
+      }
+    }
+  }
+}
